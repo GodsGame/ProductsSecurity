@@ -1,0 +1,16 @@
+com\example\productSecurity\controller\UserController.class
+com\example\productSecurity\dao\UserMapper.class
+com\example\productSecurity\pojo\Product.class
+com\example\productSecurity\utils\MybatisUtils.class
+com\example\productSecurity\service\UserServiceImpl.class
+com\example\productSecurity\service\ProductServiceImpl.class
+com\example\productSecurity\ProductsSecurityApplication.class
+com\example\productSecurity\service\ProductService.class
+com\example\productSecurity\controller\ProductController.class
+com\example\productSecurity\pojo\Product$ProductBuilder.class
+com\example\productSecurity\utils\QRCodeGenerator.class
+com\example\productSecurity\dao\ProductMapper.class
+com\example\productSecurity\service\UserService.class
+com\example\productSecurity\utils\DateUtils.class
+com\example\productSecurity\pojo\User.class
+com\example\productSecurity\config\MvcConfig.class

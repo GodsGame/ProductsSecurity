@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8029e920-3fba-4a77-bd4e-7eac63cb9637" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/image/products/product10002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/modify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/qrcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/config/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/dao/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/dao/ProductMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/dao/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/dao/ProductMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/productSecurity/service/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/image/products/ps5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/images/image/products/product10001.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/image/qrcode/qrcode10002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/accordion.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/accordion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/alerts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/alerts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/badge.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/badge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/blank-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/blank-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/block-ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/block-ui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/calendar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/cards1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/cards1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/data-tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/data-tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/dropdowns.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/dropdowns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/email.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/email.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/file-manager.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/file-manager.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/form-elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/form-layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/form-layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/form-validation.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/form-validation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/icons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/list-group.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/pagination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/popovers.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/popovers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/price.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/price.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/progress.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/progress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/session-timeout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/session-timeout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/social.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/social.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/spinners.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/spinners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/toasts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/toasts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tree-view.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/tree-view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/productSecurity/ProductsSecurityApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/productSecurity/ProductsSecurityApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\newrepository" />
+        <option name="userSettingsFile" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.1\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sTGqnWhFWvAKoE2cg2VKlN6Yy2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/classes/static/images/image/products" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\target\classes\static\images\image\products" />
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\src\main\resources\templates" />
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\src\main\resources\assets\images" />
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\src\main\resources\assets" />
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\src\main\resources\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\src\main\resources\static\images" />
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\src\main\resources\static\images\image\products" />
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\src\main\resources\image\product" />
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\src\main\resources\image\" />
+      <recent name="C:\Users\Administrator\IdeaProjects\ProductsSecurity\src\main\resources\image" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProductsSecurityApplication">
+    <configuration name="ProductsSecurityApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProductsSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.productSecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.productSecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.productSecurity.ProductsSecurityApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsSecurityApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProductsSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.productSecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.productSecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.productSecurity.ProductsSecurityApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsSecurityApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProductsSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.productSecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.productSecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.productSecurity.ProductsSecurityApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsSecurityApplicationTests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProductsSecurity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.productSecurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.productSecurity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.productSecurity.ProductsSecurityApplicationTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ProductsSecurity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.productSecurity.ProductsSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductsSecurityApplicationTests.test2" />
+        <item itemvalue="JUnit.ProductsSecurityApplicationTests.test1" />
+        <item itemvalue="JUnit.ProductsSecurityApplicationTests.test" />
+        <item itemvalue="JUnit.ProductsSecurityApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8029e920-3fba-4a77-bd4e-7eac63cb9637" name="Default Changelist" comment="" />
+      <created>1620889365559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620889365559</updated>
+      <workItem from="1620889367417" duration="10701000" />
+      <workItem from="1620970519384" duration="633000" />
+      <workItem from="1620971179997" duration="1400000" />
+      <workItem from="1620981752951" duration="331000" />
+      <workItem from="1620982108872" duration="1985000" />
+      <workItem from="1620984579704" duration="25000" />
+      <workItem from="1620984630496" duration="6012000" />
+      <workItem from="1621060921571" duration="1050000" />
+      <workItem from="1621317334086" duration="3126000" />
+      <workItem from="1621329733372" duration="3948000" />
+      <workItem from="1621939394651" duration="59000" />
+      <workItem from="1621943852141" duration="2216000" />
+      <workItem from="1622115066947" duration="1319000" />
+      <workItem from="1622118497909" duration="9521000" />
+      <workItem from="1622178262727" duration="2104000" />
+      <workItem from="1622209255921" duration="3813000" />
+      <workItem from="1622366198965" duration="16000" />
+      <workItem from="1622367105178" duration="4652000" />
+      <workItem from="1622379385873" duration="67000" />
+      <workItem from="1622379491251" duration="87000" />
+      <workItem from="1622379653190" duration="1474000" />
+      <workItem from="1622381137238" duration="218000" />
+      <workItem from="1622381362989" duration="65000" />
+      <workItem from="1622381448816" duration="5795000" />
+      <workItem from="1622439222966" duration="1517000" />
+      <workItem from="1622440761120" duration="441000" />
+      <workItem from="1622441216140" duration="61000" />
+      <workItem from="1622441289514" duration="1016000" />
+      <workItem from="1622442322026" duration="12038000" />
+      <workItem from="1622523411449" duration="2517000" />
+      <workItem from="1622525959289" duration="2328000" />
+      <workItem from="1622541896698" duration="1810000" />
+      <workItem from="1622543718800" duration="13540000" />
+      <workItem from="1622696779747" duration="1799000" />
+      <workItem from="1622708936512" duration="4106000" />
+      <workItem from="1622897247587" duration="624000" />
+      <workItem from="1622970135671" duration="52000" />
+      <workItem from="1623144747687" duration="7407000" />
+      <workItem from="1623246696379" duration="1516000" />
+      <workItem from="1623248230046" duration="6811000" />
+      <workItem from="1623317922299" duration="1249000" />
+      <workItem from="1623319186527" duration="8980000" />
+      <workItem from="1623328189200" duration="208000" />
+      <workItem from="1623328411886" duration="165000" />
+      <workItem from="1623328586625" duration="197000" />
+      <workItem from="1623328826261" duration="104000" />
+      <workItem from="1623328947862" duration="438000" />
+      <workItem from="1623329441780" duration="6688000" />
+      <workItem from="1623420790597" duration="381000" />
+      <workItem from="1623421186506" duration="2097000" />
+      <workItem from="1623514772245" duration="2569000" />
+      <workItem from="1623522741006" duration="277000" />
+      <workItem from="1623576305690" duration="266000" />
+      <workItem from="1623576589440" duration="11477000" />
+      <workItem from="1623648709744" duration="659000" />
+      <workItem from="1623659245575" duration="2465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

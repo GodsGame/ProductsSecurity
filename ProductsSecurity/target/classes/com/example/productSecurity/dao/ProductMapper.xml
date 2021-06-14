@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.productSecurity.dao.ProductMapper">
+
+    <select id="getProduct" resultType="com.example.productSecurity.pojo.Product">
+        SELECT *
+        FROM security.product
+        WHERE id = #{id};
+    </select>
+
+    <insert id="addProduct" parameterType="com.example.productSecurity.pojo.Product">
+        INSERT INTO security.product(name, price, date, place, distributor, QRcode, owner, picture)
+        VALUES (#{name}, #{price}, #{date}, #{place}, #{distributor}, #{QRcode}, #{owner}, #{picture});
+    </insert>
+
+    <select id="getProductList" resultType="com.example.productSecurity.pojo.Product">
+        SELECT *
+        FROM security.product
+        WHERE owner = #{owner}
+    </select>
+
+    <select id="lastId" resultType="Long">
+        SELECT id
+        FROM security.product
+        ORDER BY id DESC LIMIT 1;
+    </select>
+
+    <select id="getProductName" resultType="String">
+        SELECT name
+        FROM security.product
+        WHERE owner = #{owner}
+    </select>
+
+    <update id="setPath" parameterType="String">
+        UPDATE security.product
+        SET QRcode = #{qrPath}, picture = #{imgPath}
+        ORDER BY id DESC LIMIT 1;
+    </update>
+
+    <update id="updateProduct" parameterType="com.example.productSecurity.pojo.Product">
+        UPDATE security.product
+        SET name = #{name}, price = #{price}, date = #{date}, place = #{place}, distributor = #{distributor}
+        WHERE id = #{id}
+    </update>
+
+    <delete id="deleteProduct" parameterType="com.example.productSecurity.pojo.Product">
+        DELETE FROM security.product
+        WHERE id = #{id}
+    </delete>
+
+</mapper>
